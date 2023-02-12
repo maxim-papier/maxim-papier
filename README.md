@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maxim Papier
+- 👋 Hi, I’m Maxim
 - 🌱 I’m currently learning Swift on Yandex Practicum
 - 💞️ I’m looking to collaborate on interesting projects as a UX/UI Designer
 
