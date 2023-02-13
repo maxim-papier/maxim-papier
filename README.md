@@ -4,9 +4,12 @@ My roots are in graphic design. Then I worked in branding, followed by UX, then 
 
 But ready to pivot again. Now I'm passionate about iOS development. That's why studying at Yandex Practicum since June of 2022. Who says you can't teach an old dog new tricks?
 
-In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father. Adore parenting.
+After my study, I would like to develop AR applications.
 
-👋 For the sake of new knowledge, I am ready to work for free as an assistant or squire of an iOS programmer.
+> 👋 HOT DEAL! For the sake of new knowledge, I am ready to work for free as an assistant or squire of an iOS programmer.
+
+_In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father. Adore parenting._
+
 
 <!---
 maxim-papier/maxim-papier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
