@@ -6,7 +6,7 @@ But ready to pivot again. Now I'm passionate about iOS development. That's why s
 
 In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father. Adore parenting.
 
-☮️
+👋 For the sake of new knowledge, I am ready to work for free as an assistant or squire of an iOS programmer.
 
 <!---
 maxim-papier/maxim-papier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
