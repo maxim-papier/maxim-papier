@@ -1,4 +1,4 @@
-Born in Karelia, but now live in the mountains of Kazakhstan near Almaty. In between, I lived in Kyiv (UA), Kharkiv (UA), Moscow (RU), Dubna (RU), Lugano (CH), and Tavuglia (IT). 
+Born in Karelia, but now live in the mountains of Kazakhstan near Almaty. Also, I lived in Kyiv (UA), Kharkiv (UA), Moscow (RU), Dubna (RU), Lugano (CH), and Tavuglia (IT). 
 
 My roots are in graphic design. Then I worked in branding, followed by UX, then switched to product design and consulting. Somewhere in between, I headed the two design bureaus for a while. Finally, I ended up with my own successful business. 
 
