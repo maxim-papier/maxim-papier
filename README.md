@@ -6,7 +6,7 @@ But ready to pivot again. Now I'm passionate about iOS development. That's why s
 
 After my study, I would like to develop AR applications.
 
-_In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father. Adore parenting._
+_In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father._
 
 
 <!---
