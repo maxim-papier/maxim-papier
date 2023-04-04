@@ -6,8 +6,6 @@ But ready to pivot again. Now I'm passionate about iOS development. That's why s
 
 After my study, I would like to develop AR applications.
 
-> 👋 Hot Deal! For the sake of new knowledge, I am **ready to work for free** as a squire of an iOS programmer.
-
 _In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father. Adore parenting._
 
 
