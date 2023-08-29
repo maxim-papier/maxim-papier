@@ -1,15 +1,7 @@
-Born in Karelia, but now live in the mountains of Kazakhstan near Almaty. Also, I lived in Kyiv (UA), Kharkiv (UA), Moscow (RU), Dubna (RU), Lugano (CH), and Tavuglia (IT). 
+Born in Karelia, I've established roots in various parts of the world, living in locales ranging from the mountains of Kazakhstan near Almaty to cities like Kyiv, Kharkiv, Moscow, Dubna, Lugano, and Tavuglia.
 
-My roots are in graphic design. Then I worked in branding, followed by UX, then switched to product design and consulting. Somewhere in between, I headed the two design bureaus for a while. Finally, I ended up with my own successful business. 
+My career began in graphic design and evolved through roles in branding, UX, and product design. I've led two design bureaus and eventually branched out to establish a successful business in a field completely unrelated to design.
 
-But ready to pivot again. Now I'm passionate about iOS development. That's why studying at Yandex Practicum since June of 2022. Who says you can't teach an old dog new tricks?
+In 2022, I embarked on a new journey by enrolling in Yandex Practicum's beta cohort for iOS development. After 13 intense months and 1300 hours of training, I graduated in 2023, a considerable achievement given that I had never programmed before.
 
-After my study, I would like to develop AR applications.
-
-_In addition, I am fond of time management and productivity and delve into popular neurophysiology. I love many sports, especially tennis, mountain biking, and BJJ. Happy father._
-
-
-<!---
-maxim-papier/maxim-papier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently focused on developing an iOS application as a indie-developer. Beyond the tech world, my interests span time management, productivity, and neurophysiology. In my leisure time, sports like tennis, mountain biking, and Brazilian Jiu-Jitsu capture my attention. Above all, I am a proud and devoted father.
