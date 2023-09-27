@@ -1,4 +1,4 @@
-Born in Karelia, I've established roots in various parts of the world, living in locales ranging from the mountains of Kazakhstan near Almaty to cities like Kyiv, Kharkiv, Moscow, Dubna, Lugano, and Tavuglia.
+Born in Karelia (Karjala), I've established roots in various parts of the world, living in locales ranging from the mountains of Kazakhstan near Almaty to cities like Kyiv, Kharkiv, Moscow, Dubna, Lugano, and Tavuglia.
 
 My career began in graphic design and evolved through roles in branding, UX, and product design. I've led two design bureaus and eventually branched out to establish a successful business in a field completely unrelated to design.
 
